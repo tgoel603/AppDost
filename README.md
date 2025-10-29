@@ -35,11 +35,7 @@ The project leverages the requested modern frontend stack, demonstrating compete
 
 ---
 
-## 🔗 Live Project & Code
 
-| Resource | Link |
-| :--- | :--- |
-| **GitHub Repository** | [(https://github.com/tgoel603/AppDost/new/Appdost)] |
 
 ### **Setup and Run Locally**
 
