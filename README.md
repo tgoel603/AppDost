@@ -41,10 +41,9 @@ The project leverages the requested modern frontend stack, demonstrating compete
 
 To run this project on your local machine:
 
-1.  Clone the repository: `git clone [Your Repo URL]`
-2.  Navigate to the project directory: `cd appdost-ui`
-3.  Install dependencies: `npm install`
-4.  Run the development server: `npm run dev`
+1.  Navigate to the project directory: `cd appdost-ui`
+2.  Install dependencies: `npm install`
+3.  Run the development server: `npm run dev`
 
 
 
